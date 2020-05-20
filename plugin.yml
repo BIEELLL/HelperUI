@@ -1,0 +1,11 @@
+name: HelperUI
+main: KRUNCH7SHooT\Main
+api: 3.0.0
+version: 1
+author: KRUNCH7SHooT
+commands:
+  helperui:
+    description: §eHelper/Bantuan
+    default: true
+    aliases: [helper, helpui]
+    usage: /helperui
